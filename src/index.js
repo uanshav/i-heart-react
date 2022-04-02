@@ -6,7 +6,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App msg ="thank you, friends"/>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
